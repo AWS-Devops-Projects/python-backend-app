@@ -16,3 +16,4 @@ hooks:
     - location: scripts/stop_flask1.sh
       timeout: 300
       runas: root
+
