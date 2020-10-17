@@ -9,6 +9,7 @@ The application specification file (AppSpec file) is a YAML-formatted or JSON-fo
 It is used by CodeDeploy to determine:
 
 
+
 * What it should install onto instances from Amazon S3 or GitHub repositories.
 * Which lifecycle event hooks to run in response to deployment lifecycle events.(basically start and stop scripts of the applicaiton)
 
