@@ -7,7 +7,6 @@ import unittest
 # python -m unittest test_app
 
 
-
 class TestMyApp(unittest.TestCase):
 
     def setUp(self):
