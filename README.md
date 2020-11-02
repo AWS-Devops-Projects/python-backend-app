@@ -3,6 +3,7 @@
 This sample project is used for demonstrating Jenkins pipeline on AWS environment with AWS devops tools(CodeBuild, S3 Buckets, CodeDeploy)
 
 
+
 ## appspec.yml
 The application specification file (AppSpec file) is a YAML-formatted or JSON-formatted file used by CodeDeploy to manage a deployment. It must be placed in the root of the directory structure of an application's source code. 
 It is used by CodeDeploy to determine:
